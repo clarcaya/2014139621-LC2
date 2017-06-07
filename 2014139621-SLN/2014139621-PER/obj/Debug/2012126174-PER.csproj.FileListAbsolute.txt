@@ -1,0 +1,28 @@
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-PER.dll
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-PER.pdb
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.dll
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.pdb
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-PER.dll.config
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-ENT.dll
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.dll
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-ENT.pdb
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.xml
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\obj\Debug\_2012126174_PER.Migrations.ModeloInicial.resources
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.csproj.GenerateResource.Cache
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-PER.dll.config
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-PER.dll
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-PER.pdb
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-ENT.dll
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\2012126174-ENT.pdb
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\obj\Debug\_2012126174_PER.Migrations.ModeloInicial.resources
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.csproj.GenerateResource.Cache
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.dll
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-PER\obj\Debug\2012126174-PER.pdb

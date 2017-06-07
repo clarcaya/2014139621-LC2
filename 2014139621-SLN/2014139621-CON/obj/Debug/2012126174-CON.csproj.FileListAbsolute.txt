@@ -1,0 +1,12 @@
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-CON\bin\Debug\2012126174-CON.exe.config
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-CON\bin\Debug\2012126174-CON.exe
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-CON\bin\Debug\2012126174-CON.pdb
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-CON\obj\Debug\2012126174-CON.exe
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-CON\obj\Debug\2012126174-CON.pdb
+D:\Documentos\Visual Studio 2017\Projects\2012126174-LC2\2012126174-SLN\2012126174-CON\obj\Debug\2012126174-CON.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-CON\bin\Debug\2012126174-CON.exe.config
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-CON\bin\Debug\2012126174-CON.exe
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-CON\bin\Debug\2012126174-CON.pdb
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-CON\obj\Debug\2012126174-CON.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-CON\obj\Debug\2012126174-CON.exe
+C:\Users\Clase\Desktop\2012126174-SLN\2012126174-CON\obj\Debug\2012126174-CON.pdb

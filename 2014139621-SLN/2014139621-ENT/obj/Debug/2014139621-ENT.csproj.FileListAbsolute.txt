@@ -1,0 +1,15 @@
+C:\Users\Clase\Desktop\2014139621-SLN\2012126174-ENT\bin\Debug\2014139621-ENT.dll
+C:\Users\Clase\Desktop\2014139621-SLN\2012126174-ENT\bin\Debug\2014139621-ENT.pdb
+C:\Users\Clase\Desktop\2014139621-SLN\2012126174-ENT\obj\Debug\2014139621-ENT.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Desktop\2014139621-SLN\2012126174-ENT\obj\Debug\2014139621-ENT.dll
+C:\Users\Clase\Desktop\2014139621-SLN\2012126174-ENT\obj\Debug\2014139621-ENT.pdb
+C:\Users\Clase\Desktop\2014139621-SLN\2014139621-ENT\bin\Debug\2014139621-ENT.dll
+C:\Users\Clase\Desktop\2014139621-SLN\2014139621-ENT\bin\Debug\2014139621-ENT.pdb
+C:\Users\Clase\Desktop\2014139621-SLN\2014139621-ENT\obj\Debug\2014139621-ENT.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Desktop\2014139621-SLN\2014139621-ENT\obj\Debug\2014139621-ENT.dll
+C:\Users\Clase\Desktop\2014139621-SLN\2014139621-ENT\obj\Debug\2014139621-ENT.pdb
+D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-ENT\bin\Debug\2014139621-ENT.dll
+D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-ENT\bin\Debug\2014139621-ENT.pdb
+D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-ENT\obj\Debug\2014139621-ENT.csprojResolveAssemblyReference.cache
+D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-ENT\obj\Debug\2014139621-ENT.dll
+D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-ENT\obj\Debug\2014139621-ENT.pdb
