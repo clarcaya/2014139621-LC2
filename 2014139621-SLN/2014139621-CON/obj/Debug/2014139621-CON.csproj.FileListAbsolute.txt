@@ -1,15 +1,1 @@
-C:\Users\Clase\Desktop\2014139621-SLN\2012126174-CON\bin\Debug\2014139621-CON.exe.config
-C:\Users\Clase\Desktop\2014139621-SLN\2012126174-CON\bin\Debug\2014139621-CON.exe
-C:\Users\Clase\Desktop\2014139621-SLN\2012126174-CON\bin\Debug\2014139621-CON.pdb
-C:\Users\Clase\Desktop\2014139621-SLN\2012126174-CON\obj\Debug\2014139621-CON.csprojResolveAssemblyReference.cache
-C:\Users\Clase\Desktop\2014139621-SLN\2012126174-CON\obj\Debug\2014139621-CON.exe
-C:\Users\Clase\Desktop\2014139621-SLN\2012126174-CON\obj\Debug\2014139621-CON.pdb
-C:\Users\Clase\Desktop\2014139621-SLN\2014139621-CON\bin\Debug\2014139621-CON.exe.config
-C:\Users\Clase\Desktop\2014139621-SLN\2014139621-CON\obj\Debug\2014139621-CON.exe
-C:\Users\Clase\Desktop\2014139621-SLN\2014139621-CON\obj\Debug\2014139621-CON.pdb
-D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-CON\bin\Debug\2014139621-CON.exe.config
-D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-CON\bin\Debug\2014139621-CON.exe
-D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-CON\bin\Debug\2014139621-CON.pdb
-D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-CON\obj\Debug\2014139621-CON.csprojResolveAssemblyReference.cache
-D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-CON\obj\Debug\2014139621-CON.exe
-D:\Users\sistemas\Desktop\2014139621-SLN\2014139621-CON\obj\Debug\2014139621-CON.pdb
+C:\Users\Clase\Documents\Visual Studio 2015\Projects\2014139621-LC2\2014139621-LC2\2014139621-SLN\2014139621-CON\bin\Debug\2014118110-CON.exe.config

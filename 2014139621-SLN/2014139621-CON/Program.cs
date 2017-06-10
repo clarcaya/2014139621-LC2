@@ -8,7 +8,7 @@ namespace _2014139621_CON
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
         }
     }
